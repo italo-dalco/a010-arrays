@@ -27,7 +27,7 @@ console.log(numArray.splice(0, 1))
 
 console.log(fruitArray.splice(1, 1))
 
-console.log(mixArray.splice(2, 2))
+console.log(mixArray.splice(2, 1))
 
 //-----------------------------------------------------------------------------
 
